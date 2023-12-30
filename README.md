@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Pyton & Django
+- 🌱 I’m currently learning Python & Django
 
 <!--
 **rbayrak/rbayrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
