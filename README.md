@@ -7,6 +7,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Pyton & Django
+- 🌱 I’m currently learning Python & Django
 -->            
       
